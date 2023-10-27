@@ -14,3 +14,4 @@ webuiapi>=0.6.2
 wechaty>=0.10.7
 wechaty_puppet>=0.4.23
 chardet>=5.1.0
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
